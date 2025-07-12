@@ -1,16 +1,50 @@
-## Hi there 👋
+### Hi there, I'm Parvati! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px" />
+![Profile Views](https://komarev.com/ghpvc/?username=Parvati007)
 
-<!--
-**Parvati007/Parvati007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Web Developer
 
-Here are some ideas to get you started:
+- 👩‍🎓 4th Year Undergraduate (B.Tech CSE, LPU)
+- 🌱 Currently learning the **MERN Stack**
+- 🎯 2025 Goal: Actively contribute to **Open Source Projects**
+- 🏸 Hobbies: Playing **Badminton**, **Kho-Kho**, and creating **Art**
+- ✨ Passionate about building dynamic, scalable web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with me:
+
+[<img align="left" alt="Parvati  | LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+<br />
+<br />
+
+---
+
+### 💻 Languages & Tools:
+
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="Express.js" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="Power BI" width="50px" src="https://img.icons8.com/color/48/power-bi.png" />
+
+<br />
+<br />
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parvati007&show_icons=true&count_private=true&theme=material-palenight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvati007&layout=compact&theme=tokyonight&hide=css)
+
+---
+
+> “Code is not just code, it’s an art of solving problems creatively.” 🎨
+
+[linkedin]: https://www.linkedin.com/in/parvati-kumari/
