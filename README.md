@@ -1,6 +1,11 @@
 ### Hi there, I'm Parvati! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px" />
 ![Profile Views](https://komarev.com/ghpvc/?username=Parvati007)
 
+<p align="left">
+  <img src="https://thumbs.dreamstime.com/z/serene-coding-night-anime-girl-working-headphones-rainy-cityscape-immerse-yourself-tranquil-ambiance-young-357029322.jpg?ct=jpeg" width="600px" height ="500" alt="Hacker girl coding" />
+</p>
+
+---
 ## 🚀 Full Stack Web Developer
 
 - 👩‍🎓 4th Year Undergraduate (B.Tech CSE, LPU)
@@ -13,7 +18,7 @@
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="Parvati  | LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Parvati  | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 <br />
@@ -30,6 +35,7 @@
 <img align="left" alt="Express.js" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Power BI" width="50px" src="https://img.icons8.com/color/48/power-bi.png" />
 
 <br />
