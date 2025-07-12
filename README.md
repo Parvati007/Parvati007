@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Parvati007)
 
 <p align="left">
-  <img src="https://thumbs.dreamstime.com/z/serene-coding-night-anime-girl-working-headphones-rainy-cityscape-immerse-yourself-tranquil-ambiance-young-357029322.jpg?ct=jpeg" width="600px" height ="500" alt="Hacker girl coding" />
+  <img src="https://thumbs.dreamstime.com/z/serene-coding-night-anime-girl-working-headphones-rainy-cityscape-immerse-yourself-tranquil-ambiance-young-357029322.jpg?ct=jpeg" width="450px" height ="350" alt="Hacker girl coding" />
 </p>
 
 ---
